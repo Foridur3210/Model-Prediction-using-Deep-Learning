@@ -1,4 +1,4 @@
-# Working-with-Deep_Learning
+# Model Prediction
 
 Here I have shared the file for Wine Data- Red wine & White wine
 Also I have shared how we can make predictive models, how we can add hidden layers, increase the level of accuracy of the model.
